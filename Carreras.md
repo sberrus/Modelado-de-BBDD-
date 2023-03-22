@@ -43,6 +43,7 @@
 
 ### tipo_carreras **EC**
 
+1. Valores atributo _distancia_ serán expresados en _km_
 1. Crear una tipo_carrera
 1. Actualizar registro(s) tipo_carrera(s)
 1. Leer registro(s) tipo_carrera(s)
