@@ -1,0 +1,40 @@
+{
+    "carreras": [
+        {
+            "carrera_id": "",
+            "nombre": "",
+            "tipo_carrera": "",
+            "fecha": "",
+            "tiempo": "",
+            "mejor_tiempo": false,
+            "altitud": "",
+            "lugar": "",
+            "pais": "",
+            "foto": ""
+        },
+        {
+            "carrera_id": "",
+            "nombre": "",
+            "tipo_carrera": "",
+            "fecha": "",
+            "tiempo": "",
+            "mejor_tiempo": false,
+            "altitud": "",
+            "lugar": "",
+            "pais": "",
+            "foto": ""
+        },
+        {
+            "carrera_id": "",
+            "nombre": "",
+            "tipo_carrera": "",
+            "fecha": "",
+            "tiempo": "",
+            "mejor_tiempo": false,
+            "altitud": "",
+            "lugar": "",
+            "pais": "",
+            "foto": ""
+        }
+    ]
+}

@@ -1,5 +1,7 @@
 # Modelado de Datos
 
+Partiendo de la experiencia del profesor Jon Mircha, se recomienda a la hora de elaborar el modelado de una BBDD, se recomienda realizar los siguientes pasos para realizar el modelado de la BBDD de manera cómoda.
+
 1. Identificar las entidades del sistema ✅
 2. Identificar los atributos de las entidades ✅
 3. Identificar las llaves primarias y las foranes ✅
